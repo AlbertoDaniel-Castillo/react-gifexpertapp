@@ -30,3 +30,4 @@ export const useFetchGifs = ( category ) => {
 
 }
 
+
